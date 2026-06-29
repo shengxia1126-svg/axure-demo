@@ -144,7 +144,7 @@
       <div id="u30" class="ax_default paragraph">
         <div id="u30_div" class=""></div>
         <div id="u30_text" class="text ">
-          <p><span>爬取資料定時任務週期</span></p><p><span>&nbsp;&nbsp; </span></p><p><span>&nbsp;&nbsp;&nbsp; 1.爬取時考慮各平台網絡延時等因素，保持匯率可用</span></p><p><span>&nbsp;&nbsp;&nbsp; 2.幣安、火幣、OKex、coinbase，10秒爬取一次（爬取頻率待定）</span></p><p><span>&nbsp;&nbsp;&nbsp; 3.由於一些新增爬取的站點還不確定是否有反爬策略，所以請研發實作可以對這個定時任務週期可以根據不同站點靈活變更爬取週期</span></p>
+          <p><span>爬取資料定時任務週期</span></p><p><span><br></span></p><p><span>1.爬取時考慮各平台網絡延時等因素，保持匯率可用</span></p><p><span>2.幣安、火幣、OKex、coinbase，10秒爬取一次（爬取頻率待定）</span></p><p><span>3.由於一些新增爬取的站點還不確定是否有反爬策略，所以請研發實作可以對這個定時任務週期可以根據不同站點靈活變更爬取週期</span></p>
         </div>
       </div>
 
@@ -373,6 +373,14 @@
         <img id="u56_img" class="img " src="images/匯率應用業務流程/u56.svg"/>
         <div id="u56_text" class="text ">
           <p><span>示例：可統一也可根據場景設定訪問</span></p><p><span>1、调整范围限制：不超过基础汇率（正负10%）且调整后汇率不能超过汇率保护范围</span></p><p><span>2、各交易對汇率保护范围（取自阿波羅配置【20-40】範圍 ）</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u57" class="ax_default paragraph">
+        <div id="u57_div" class=""></div>
+        <div id="u57_text" class="text ">
+          <p><span>數據標準：</span></p><p><span><br></span></p><p><span>1、爬取的匯率數據，對於數位貨幣與法幣之間匯率，獲取不低於6位小數數據（不同平臺略有不同，有的可獲得8位小數）</span></p><p><span>2、計算的匯率數據，系統進行平均值、最大值、最小值、匯率轉化計算出的結果，保留8位小數</span></p><p><span>3、基礎匯率：基礎匯率，對於TWD/USDT，截取爬取直接使用或計算結果的2位小數，不做四捨五入</span></p><p><span>4、系統匯率：系統匯率直接使用基礎匯率結果，2位小數</span></p>
         </div>
       </div>
     </div>
