@@ -15,7 +15,7 @@
 ._图片_ {
 }
 .heading_1 {
-  font-family:'微软雅黑 Bold', '微软雅黑 Regular', '微软雅黑', sans-serif;
+  font-family:'微软雅黑 Bold', '微软雅黑', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:32px;
@@ -29,7 +29,7 @@
   text-align:left;
 }
 .heading_3 {
-  font-family:'微软雅黑 Light', '微软雅黑 Regular', '微软雅黑', sans-serif;
+  font-family:'微软雅黑 Light', '微软雅黑', sans-serif;
   font-weight:250;
   font-style:normal;
   font-size:18px;
@@ -56,14 +56,14 @@
   text-align:left;
 }
 .label {
-  font-family:'微软雅黑 Light', '微软雅黑 Regular', '微软雅黑', sans-serif;
+  font-family:'微软雅黑 Light', '微软雅黑', sans-serif;
   font-weight:250;
   font-style:normal;
   font-size:13px;
   text-align:left;
 }
 .paragraph {
-  font-family:'微软雅黑 Light', '微软雅黑 Regular', '微软雅黑', sans-serif;
+  font-family:'微软雅黑 Light', '微软雅黑', sans-serif;
   font-weight:250;
   font-style:normal;
   font-size:14px;
@@ -113,7 +113,7 @@
   text-align:left;
 }
 .radio_button {
-  font-family:'微软雅黑 Light', '微软雅黑 Regular', '微软雅黑', sans-serif;
+  font-family:'微软雅黑 Light', '微软雅黑', sans-serif;
   font-weight:250;
   font-style:normal;
   color:#7F7F7F;
@@ -123,7 +123,7 @@
   text-align:left;
 }
 .table_cell {
-  font-family:'微软雅黑 Light', '微软雅黑 Regular', '微软雅黑', sans-serif;
+  font-family:'微软雅黑 Light', '微软雅黑', sans-serif;
   font-weight:250;
   font-style:normal;
   font-size:14px;
@@ -168,7 +168,7 @@
   font-style:normal;
 }
 ._原型中流程节点 {
-  font-family:'PingFang SC ', 'PingFang SC', sans-serif;
+  font-family:'PingFangSC-Thin', 'PingFang SC Thin', 'PingFang SC', sans-serif;
   font-weight:200;
   font-style:normal;
   color:#000000;
@@ -199,7 +199,7 @@
   text-align:left;
 }
 .checkbox {
-  font-family:'微软雅黑 Light', '微软雅黑 Regular', '微软雅黑', sans-serif;
+  font-family:'微软雅黑 Light', '微软雅黑', sans-serif;
   font-weight:250;
   font-style:normal;
   text-align:left;
@@ -247,7 +247,7 @@
 ._线段 {
 }
 .inputed {
-  font-family:'PingFang SC ', 'PingFang SC', sans-serif;
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -302,7 +302,7 @@
 ._图片 {
 }
 ._表单标题 {
-  font-family:'微软雅黑 Light', '微软雅黑 Regular', '微软雅黑', sans-serif;
+  font-family:'微软雅黑 Light', '微软雅黑', sans-serif;
   font-weight:250;
   font-style:normal;
   font-size:16px;
@@ -314,21 +314,21 @@
   color:#FFFFFF;
 }
 ._底色 {
-  font-family:'PingFang SC ', 'PingFang SC', sans-serif;
+  font-family:'PingFangSC-Thin', 'PingFang SC Thin', 'PingFang SC', sans-serif;
   font-weight:200;
   font-style:normal;
   color:#000000;
   text-align:left;
 }
 .h1_标题 {
-  font-family:'PingFang SC ', 'PingFang SC', sans-serif;
+  font-family:'PingFangSC-Thin', 'PingFang SC Thin', 'PingFang SC', sans-serif;
   font-weight:200;
   font-style:normal;
   font-size:17px;
   text-align:left;
 }
 .label-___ {
-  font-family:'微软雅黑 Light', '微软雅黑 Regular', '微软雅黑', sans-serif;
+  font-family:'微软雅黑 Light', '微软雅黑', sans-serif;
   font-weight:250;
   font-style:normal;
   font-size:16px;
@@ -354,7 +354,7 @@
 ._形状1 {
 }
 ._原型中流程节点1 {
-  font-family:'PingFang SC ', 'PingFang SC', sans-serif;
+  font-family:'PingFangSC-Thin', 'PingFang SC Thin', 'PingFang SC', sans-serif;
   font-weight:200;
   font-style:normal;
   color:#000000;
@@ -393,14 +393,14 @@
 .button1 {
 }
 .and选值-默认选项 {
-  font-family:'PingFang SC ', 'PingFang SC', sans-serif;
+  font-family:'PingFangSC-Thin', 'PingFang SC Thin', 'PingFang SC', sans-serif;
   font-weight:200;
   font-style:normal;
   color:#000000;
   text-align:center;
 }
 .ios底部弹窗-普通按钮 {
-  font-family:'PingFang SC ', 'PingFang SC', sans-serif;
+  font-family:'PingFangSC-Thin', 'PingFang SC Thin', 'PingFang SC', sans-serif;
   font-weight:200;
   font-style:normal;
   font-size:14px;
@@ -408,14 +408,14 @@
   text-align:center;
 }
 ._区域框 {
-  font-family:'PingFang SC ', 'PingFang SC', sans-serif;
+  font-family:'PingFangSC-Thin', 'PingFang SC Thin', 'PingFang SC', sans-serif;
   font-weight:200;
   font-style:normal;
   color:#80FFFF;
   text-align:left;
 }
 .ios截图屏蔽 {
-  font-family:'微软雅黑 Light', '微软雅黑 Regular', '微软雅黑', sans-serif;
+  font-family:'微软雅黑 Light', '微软雅黑', sans-serif;
   font-weight:250;
   font-style:normal;
   color:#000000;
