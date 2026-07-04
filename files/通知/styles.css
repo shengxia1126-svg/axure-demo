@@ -93,7 +93,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:320px;
+  width:336px;
   height:42px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -108,7 +108,7 @@
   position:absolute;
   left:53px;
   top:483px;
-  width:320px;
+  width:336px;
   height:42px;
   display:flex;
 }
@@ -121,7 +121,7 @@
 }
 #u1606_text {
   border-width:0px;
-  white-space:nowrap;
+  word-wrap:break-word;
   text-transform:none;
 }
 #u1607_div {
@@ -426,7 +426,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'微软雅黑 Bold', '微软雅黑', sans-serif;
+  font-family:'微软雅黑 Bold', '微软雅黑 Regular', '微软雅黑', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:32px;
@@ -439,7 +439,7 @@
   width:128px;
   height:42px;
   display:flex;
-  font-family:'微软雅黑 Bold', '微软雅黑', sans-serif;
+  font-family:'微软雅黑 Bold', '微软雅黑 Regular', '微软雅黑', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:32px;
@@ -461,7 +461,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:221px;
+  width:264px;
   height:95px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -476,7 +476,7 @@
   position:absolute;
   left:66px;
   top:114px;
-  width:221px;
+  width:264px;
   height:95px;
   display:flex;
 }
@@ -497,7 +497,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:221px;
+  width:244px;
   height:19px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -512,7 +512,7 @@
   position:absolute;
   left:61px;
   top:306px;
-  width:221px;
+  width:244px;
   height:19px;
   display:flex;
 }
@@ -525,42 +525,6 @@
 }
 #u1617_text {
   border-width:0px;
-  white-space:nowrap;
-  text-transform:none;
-}
-#u1618_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:39px;
-  height:19px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 0);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-}
-#u1618 {
-  border-width:0px;
-  position:absolute;
-  left:497px;
-  top:295px;
-  width:39px;
-  height:19px;
-  display:flex;
-}
-#u1618 .text {
-  position:absolute;
-  align-self:flex-start;
-  padding:0px 0px 0px 0px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u1618_text {
-  border-width:0px;
-  white-space:nowrap;
+  word-wrap:break-word;
   text-transform:none;
 }
