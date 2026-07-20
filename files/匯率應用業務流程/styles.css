@@ -21,7 +21,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:216px;
+  width:276px;
   height:31px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -37,9 +37,9 @@
 #u19 {
   border-width:0px;
   position:absolute;
-  left:30px;
-  top:30px;
-  width:216px;
+  left:27px;
+  top:45px;
+  width:276px;
   height:31px;
   display:flex;
   font-family:'微软雅黑 Light', '微软雅黑 Regular', '微软雅黑', sans-serif;
@@ -55,7 +55,7 @@
 }
 #u19_text {
   border-width:0px;
-  white-space:nowrap;
+  word-wrap:break-word;
   text-transform:none;
 }
 #u20_div {
