@@ -15,7 +15,7 @@
 ._图片_ {
 }
 .heading_1 {
-  font-family:'微软雅黑 Bold', '微软雅黑', sans-serif;
+  font-family:'微软雅黑 Bold', '微软雅黑 Regular', '微软雅黑', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:32px;
@@ -29,7 +29,7 @@
   text-align:left;
 }
 .heading_3 {
-  font-family:'微软雅黑 Light', '微软雅黑', sans-serif;
+  font-family:'微软雅黑 Light', '微软雅黑 Regular', '微软雅黑', sans-serif;
   font-weight:250;
   font-style:normal;
   font-size:18px;
@@ -56,14 +56,14 @@
   text-align:left;
 }
 .label {
-  font-family:'微软雅黑 Light', '微软雅黑', sans-serif;
+  font-family:'微软雅黑 Light', '微软雅黑 Regular', '微软雅黑', sans-serif;
   font-weight:250;
   font-style:normal;
   font-size:13px;
   text-align:left;
 }
 .paragraph {
-  font-family:'微软雅黑 Light', '微软雅黑', sans-serif;
+  font-family:'微软雅黑 Light', '微软雅黑 Regular', '微软雅黑', sans-serif;
   font-weight:250;
   font-style:normal;
   font-size:14px;
@@ -113,7 +113,7 @@
   text-align:left;
 }
 .radio_button {
-  font-family:'微软雅黑 Light', '微软雅黑', sans-serif;
+  font-family:'微软雅黑 Light', '微软雅黑 Regular', '微软雅黑', sans-serif;
   font-weight:250;
   font-style:normal;
   color:#7F7F7F;
@@ -123,7 +123,7 @@
   text-align:left;
 }
 .table_cell {
-  font-family:'微软雅黑 Light', '微软雅黑', sans-serif;
+  font-family:'微软雅黑 Light', '微软雅黑 Regular', '微软雅黑', sans-serif;
   font-weight:250;
   font-style:normal;
   font-size:14px;
@@ -199,7 +199,7 @@
   text-align:left;
 }
 .checkbox {
-  font-family:'微软雅黑 Light', '微软雅黑', sans-serif;
+  font-family:'微软雅黑 Light', '微软雅黑 Regular', '微软雅黑', sans-serif;
   font-weight:250;
   font-style:normal;
   text-align:left;
@@ -304,7 +304,7 @@
 ._图片 {
 }
 ._表单标题 {
-  font-family:'微软雅黑 Light', '微软雅黑', sans-serif;
+  font-family:'微软雅黑 Light', '微软雅黑 Regular', '微软雅黑', sans-serif;
   font-weight:250;
   font-style:normal;
   font-size:16px;
@@ -330,7 +330,7 @@
   text-align:left;
 }
 .label-___ {
-  font-family:'微软雅黑 Light', '微软雅黑', sans-serif;
+  font-family:'微软雅黑 Light', '微软雅黑 Regular', '微软雅黑', sans-serif;
   font-weight:250;
   font-style:normal;
   font-size:16px;
@@ -420,7 +420,7 @@
   text-align:left;
 }
 .ios截图屏蔽 {
-  font-family:'微软雅黑 Light', '微软雅黑', sans-serif;
+  font-family:'微软雅黑 Light', '微软雅黑 Regular', '微软雅黑', sans-serif;
   font-weight:250;
   font-style:normal;
   color:#000000;
